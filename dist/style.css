@@ -35,9 +35,9 @@ body {
 }
 
 @keyframes jump {
-    0%   { bottom: 280px; }
-    50%  { bottom: 280px; } /* 跳躍高度 */
-    100% { bottom: 280px; }
+    0%   { bottom: 20px; }
+    50%  { bottom: 200px; } /* 跳躍高度 */
+    100% { bottom: 20px; }
 }
 
 
